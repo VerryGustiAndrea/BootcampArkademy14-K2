@@ -22,4 +22,4 @@ def data(a, b):
     
     print (json.dumps(datadiri))
 
-data('Verry Gusti Andrea', 23)
+data('Verry Gusti Andrea', 22)
